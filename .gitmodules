@@ -1,0 +1,3 @@
+[submodule "pa-applet"]
+	path = pa-applet
+	url = git@github.com:fernandotcl/pa-applet.git
